@@ -1,0 +1,260 @@
+#menu{ 
+	position: relative;
+	background-color: ;
+	width: 25%;
+	left: 28px;
+	margin: 0 auto;
+}
+button{
+	background-color: yellow;
+	width: 150px;
+	height: 35px;
+	border: none;
+}
+.hide li{
+	list-style: none;
+	padding-bottom: 10px;
+	background-color: yellow;
+	display: inline-block;
+	padding: 5px;
+	margin: 5px;
+
+}
+#top{
+	position: relative;
+	left: 40%;
+}
+#top{
+	position: relative;
+	background-image: url("title.jpg");
+	width: 25%;
+	height: 200px;
+
+}
+#top h1{
+	position: relative;
+	background-color: yellow;
+	width: 40%;
+	left: 50px;
+}
+#top h5{
+	position: relative;
+	background-color: yellow;
+	width: 35%;
+	left: 50px;
+}
+
+#number{
+	position: relative; 
+	background-color: yellow;
+	margin: 0 auto;
+	width: 25%;
+	left: 28px;
+}
+
+#number1{
+	position: relative; 
+	background-color: yellow;
+	margin: 0 auto;
+    left: 28px;
+    width: 25%;
+
+}
+
+#top1{
+	position: relative;
+	background-color: white;
+	width: 25%;
+}
+#top1{
+	position: relative;
+	left: 40%;
+}
+#top1 img{
+	position: relative;
+	width: 50px;
+	left: 110px;
+}
+#top1 h5{
+	position: relative;
+	bottom: 20px;
+	left: 120px;
+}
+#top1 p{
+	position: relative;
+	bottom: 15px;
+	left: 25px;
+}
+#top2{
+	position: relative;
+	background-color: white;
+	width: 25%;
+}
+#top2{
+	position: relative;
+	left: 40%;
+}
+#top2 img{
+	position: relative;
+	width: 50px;
+	left: 110px;
+}
+#top2 h5{
+	position: relative;
+	bottom: 20px;
+	left: 120px;
+}
+#top2 p{
+	position: relative;
+	bottom: 15px;
+	left: 25px;
+}
+#top3{
+	position: relative;
+	background-color: white;
+	width: 25%;
+}
+#top3{
+	position: relative;
+	left: 40%;
+}
+#top3 img{
+	position: relative;
+	width: 40px;
+	left: 110px;
+}
+#top3 h5{
+	position: relative;
+	bottom: 25px;
+	left: 120px;
+}
+#top3 p{
+	position: relative;
+	bottom: 15px;
+	left: 25px;
+}
+#top4{
+	position: relative;
+	background-color: white;
+	width: 25%;
+}
+#top4{
+	position: relative;
+	left: 40%;
+}
+#top4 img{
+	position: relative;
+	width: 60px;
+	left: 110px;
+}
+#top4 h5{
+	position: relative;
+	bottom: 20px;
+	left: 120px;
+}
+#top4 p{
+	position: relative;
+	bottom: 15px;
+	left: 30px;
+}
+#top5{
+	position: relative;
+	background-color: white;
+	width: 25%;
+}
+#top5{
+	position: relative;
+	left: 40%;
+}
+#top5 img{
+	position: relative;
+	width: 50px;
+	left: 110px;
+}
+#top5 h5{
+	position: relative;
+	bottom: 10px;
+	left: 50px;
+}
+#top5 p{
+	position: relative;
+	bottom: 15px;
+	left: 25px; 
+	height: 160px;
+}
+#more h4{
+	position: relative;
+	background-color: yellow;
+	width: 13%;
+	padding: 5px;
+	bottom: 80px;
+	right: 20px;
+	margin: 0 auto;
+}
+
+#lasts p{
+	position: relative;
+	bottom: 40px;
+	left: 47%;
+}
+#natu img{
+	position: relative;
+	margin: 0 auto;
+	width: 25%;
+	left: 40%
+}
+#water img{
+	position: relative;
+	margin: 0 auto;
+	width: 25%;
+	left: 40%;
+}
+#buliting img{
+	position: relative;
+	margin: 0 auto; 
+	width: 25%;
+	left: 40%;
+	height: 130px;
+}
+#animal img{
+	position: relative;
+	margin: 0 auto;
+	width: 25%;
+	left: 40%;
+}
+#female img{
+	position: relative;
+	margin: 0 auto;
+	width: 25%;
+	left: 40%;
+	height: 140px;
+} 
+#water img{
+	position: relative;
+	margin: 0 auto;
+	width: 25%;
+	left: 40%;
+}
+#chicken img{
+	position: relative;
+	margin: 0 auto;
+	width: 25%;
+	left: 40%;
+	height: 150px;
+}
+#male img{
+	position: relative;
+	margin: 0 auto;
+	width: 25%;
+	left: 40%;
+}
+#back4 img{
+	position: relative;
+	margin: 0 auto;
+	width: 25%;
+	left: 40%;
+}
+body{
+	background-image: url("color.jpg");
+}
+
